@@ -30,19 +30,23 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Counting
 |  |
 | ------- |
