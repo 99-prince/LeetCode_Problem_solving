@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +54,36 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
