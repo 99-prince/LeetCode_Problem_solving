@@ -6,6 +6,7 @@
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
