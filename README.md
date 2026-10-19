@@ -34,6 +34,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
