@@ -40,6 +40,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
+| [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,8 +111,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
