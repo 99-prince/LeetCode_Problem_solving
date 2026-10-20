@@ -7,6 +7,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
+| [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,8 +95,13 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
