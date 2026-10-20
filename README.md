@@ -21,11 +21,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
