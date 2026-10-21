@@ -22,6 +22,7 @@
 | [0005-longest-palindromic-substring](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
