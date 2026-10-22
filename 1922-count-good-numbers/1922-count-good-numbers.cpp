@@ -1,18 +1,23 @@
 class Solution {
 public:
-    long long mod = 1e9 + 7;
-    long long power(long long a, long long b) {
-        long long ans = 1;
-        while (b > 0) {
-            if (b % 2 == 1)
-                ans = (ans * a) % mod;
+    const int M = 1e9 + 7;
 
-            a = (a * a) % mod;
-            b /= 2;
+    int findPower(long long a, long long b) {
+        if (b == 0) {
+            return 1;
         }
-        return ans;
+
+        long long half = findPower(a, b / 2);
+        long long result = (half * half) % M;
+
+        if (b % 2 == 1) {
+            result = (result * a) % M;
+        }
+
+        return result;
     }
+
     int countGoodNumbers(long long n) {
-        return (power(5, (n + 1) / 2) * power(4, n / 2)) % mod;
+        return (long long)findPower(5, (n + 1) / 2) * findPower(4, n / 2) % M;
     }
 };
