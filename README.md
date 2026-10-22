@@ -8,6 +8,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
 | [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
+| [1922-count-good-numbers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
