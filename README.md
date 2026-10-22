@@ -42,6 +42,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 | [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
