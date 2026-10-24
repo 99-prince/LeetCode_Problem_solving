@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0050-powx-n) |
 | [3886-sum-of-sortable-integers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3886-sum-of-sortable-integers) |
 | [1922-count-good-numbers](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2409-count-days-spent-together](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
