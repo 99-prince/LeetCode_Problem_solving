@@ -47,6 +47,7 @@
 | [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,4 +130,16 @@
 | ------- |
 | [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
