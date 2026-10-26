@@ -48,6 +48,7 @@
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -134,12 +136,15 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
