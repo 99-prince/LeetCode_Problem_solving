@@ -26,6 +26,7 @@
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [2409-count-days-spent-together](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,11 +64,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -75,10 +79,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -135,11 +141,13 @@
 | [0078-subsets](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
