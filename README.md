@@ -35,6 +35,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [0022-generate-parentheses](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0022-generate-parentheses) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3665-twisted-mirror-path-count) |
 ## Manacher
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3665-twisted-mirror-path-count](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
