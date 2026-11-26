@@ -56,6 +56,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3665-twisted-mirror-path-count](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3665-twisted-mirror-path-count) |
+| [0994-rotting-oranges](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/3665-twisted-mirror-path-count) |
+| [0994-rotting-oranges](https://github.com/99-prince/LeetCode_Problem_solving/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
